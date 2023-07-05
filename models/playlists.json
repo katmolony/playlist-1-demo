@@ -1,0 +1,17 @@
+{
+  "file": "./models/playlists.json",
+  "playlists": [
+    {
+      "title": "test",
+      "_id": "9e13ce3c-8018-4040-bfc0-8b729a68fb06"
+    },
+    {
+      "title": "hannah",
+      "_id": "33b7f188-844b-4aad-83f7-7263ab8aa242"
+    },
+    {
+      "title": "^ sucks",
+      "_id": "23aae296-0507-424b-baec-6c3b0a66bf06"
+    }
+  ]
+}
